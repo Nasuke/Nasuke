@@ -66,7 +66,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Nasuke/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasuke" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasuke&powershell,Mathematica,Ruby,Objective-C,ObjectiveC%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
